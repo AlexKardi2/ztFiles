@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\Unity\\ZeroTimeGit\\ConsoleAppGit\\ConsoleAppGit.csproj": {}
+    "D:\\OtherGit\\ztFiles\\ConsoleAppGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\Unity\\ZeroTimeGit\\ConsoleAppGit\\ConsoleAppGit.csproj": {
+    "D:\\OtherGit\\ztFiles\\ConsoleAppGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Unity\\ZeroTimeGit\\ConsoleAppGit\\ConsoleAppGit.csproj",
+        "projectUniqueName": "D:\\OtherGit\\ztFiles\\ConsoleAppGit.csproj",
         "projectName": "ConsoleAppGit",
-        "projectPath": "C:\\Users\\1\\Unity\\ZeroTimeGit\\ConsoleAppGit\\ConsoleAppGit.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Unity\\ZeroTimeGit\\ConsoleAppGit\\obj\\",
+        "projectPath": "D:\\OtherGit\\ztFiles\\ConsoleAppGit.csproj",
+        "packagesPath": "C:\\Users\\akardi\\.nuget\\packages\\",
+        "outputPath": "D:\\OtherGit\\ztFiles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\akardi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -45,16 +50,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-arm64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

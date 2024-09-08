@@ -8,6 +8,7 @@ namespace ConsoleAppGit
         {
             SecondClass _second = new();
             Console.WriteLine(_second.GetType().ToString());
+            Console.WriteLine("Asus warked here )))");
         }
     }
 }

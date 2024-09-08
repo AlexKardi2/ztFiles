@@ -1,0 +1,17 @@
+D:\OtherGit\ztFiles\bin\Debug\net5.0\ConsoleAppGit.exe
+D:\OtherGit\ztFiles\bin\Debug\net5.0\ConsoleAppGit.deps.json
+D:\OtherGit\ztFiles\bin\Debug\net5.0\ConsoleAppGit.runtimeconfig.json
+D:\OtherGit\ztFiles\bin\Debug\net5.0\ConsoleAppGit.runtimeconfig.dev.json
+D:\OtherGit\ztFiles\bin\Debug\net5.0\ConsoleAppGit.dll
+D:\OtherGit\ztFiles\bin\Debug\net5.0\ConsoleAppGit.pdb
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.csproj.AssemblyReference.cache
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.AssemblyInfoInputs.cache
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.AssemblyInfo.cs
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.csproj.CoreCompileInputs.cache
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.sourcelink.json
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.dll
+D:\OtherGit\ztFiles\obj\Debug\net5.0\refint\ConsoleAppGit.dll
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.pdb
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ConsoleAppGit.genruntimeconfig.cache
+D:\OtherGit\ztFiles\obj\Debug\net5.0\ref\ConsoleAppGit.dll
