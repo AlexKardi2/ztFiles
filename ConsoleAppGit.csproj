@@ -9,8 +9,4 @@
     <PlatformTarget>ARM64</PlatformTarget>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="fold1\" />
-  </ItemGroup>
-
 </Project>
