@@ -1,0 +1,7 @@
+C:\Users\1\Unity\ZeroTimeGit\ConsoleAppGit\bin\Debug\AppForAsus.exe.config
+C:\Users\1\Unity\ZeroTimeGit\ConsoleAppGit\bin\Debug\AppForAsus.exe
+C:\Users\1\Unity\ZeroTimeGit\ConsoleAppGit\bin\Debug\AppForAsus.pdb
+C:\Users\1\Unity\ZeroTimeGit\ConsoleAppGit\obj\Debug\AppForAsus.csproj.AssemblyReference.cache
+C:\Users\1\Unity\ZeroTimeGit\ConsoleAppGit\obj\Debug\AppForAsus.csproj.CoreCompileInputs.cache
+C:\Users\1\Unity\ZeroTimeGit\ConsoleAppGit\obj\Debug\AppForAsus.exe
+C:\Users\1\Unity\ZeroTimeGit\ConsoleAppGit\obj\Debug\AppForAsus.pdb
