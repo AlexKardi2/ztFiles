@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppForAsus;
+using System;
 
 namespace ConsoleAppGit
 {
@@ -6,7 +7,7 @@ namespace ConsoleAppGit
     {
         static void Main(string[] args)
         {
-            SecondClass _second = new();
+            Second _second = new Second();
             Console.WriteLine(_second.GetType().ToString());
             Console.WriteLine("Asus warked here )))");
         }
